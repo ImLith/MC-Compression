@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_carpet"
+    },
+    {
+      "item": "minecraft:light_blue_carpet"
+    },
+    {
+      "item": "minecraft:light_blue_carpet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:light_blue_wool",
+    "count": 2
+  },
+  "group": "carpet_to_blocks"
+}

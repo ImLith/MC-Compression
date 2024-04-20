@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:orange_carpet"
+    },
+    {
+      "item": "minecraft:orange_carpet"
+    },
+    {
+      "item": "minecraft:orange_carpet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:orange_wool",
+    "count": 2
+  },
+  "group": "carpet_to_blocks"
+}

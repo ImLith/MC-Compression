@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:red_carpet"
+    },
+    {
+      "item": "minecraft:red_carpet"
+    },
+    {
+      "item": "minecraft:red_carpet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:red_wool",
+    "count": 2
+  },
+  "group": "carpet_to_blocks"
+}
