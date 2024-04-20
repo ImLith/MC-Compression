@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:birch_stairs"
+    },
+    {
+      "item": "minecraft:birch_stairs"
+    },
+    {
+      "item": "minecraft:birch_stairs"
+    },
+    {
+      "item": "minecraft:birch_stairs"
+    }
+  ],
+  "result": {
+    "item": "minecraft:birch_planks",
+    "count": 3
+  },
+  "group": "compress"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:diorite_stairs"
+    },
+    {
+      "item": "minecraft:diorite_stairs"
+    },
+    {
+      "item": "minecraft:diorite_stairs"
+    },
+    {
+      "item": "minecraft:diorite_stairs"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diorite",
+    "count": 3
+  },
+  "group": "compress"
+}

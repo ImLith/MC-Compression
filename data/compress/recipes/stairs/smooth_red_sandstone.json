@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:smooth_red_sandstone_stairs"
+    },
+    {
+      "item": "minecraft:smooth_red_sandstone_stairs"
+    },
+    {
+      "item": "minecraft:smooth_red_sandstone_stairs"
+    },
+    {
+      "item": "minecraft:smooth_red_sandstone_stairs"
+    }
+  ],
+  "result": {
+    "item": "minecraft:smooth_red_sandstone",
+    "count": 3
+  },
+  "group": "compress"
+}

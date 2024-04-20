@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:purpur_stairs"
+    },
+    {
+      "item": "minecraft:purpur_stairs"
+    },
+    {
+      "item": "minecraft:purpur_stairs"
+    },
+    {
+      "item": "minecraft:purpur_stairs"
+    }
+  ],
+  "result": {
+    "item": "minecraft:purpur_block",
+    "count": 3
+  },
+  "group": "compress"
+}
