@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["# #", " # ", "# #"],
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "minecraft:cobweb",
+    "count": 1
+  },
+  "group": "miscs_to_blocks"
+}
