@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:diorite_wall"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diorite",
+    "count": 1
+  },
+  "group": "walls_to_blocks"
+}

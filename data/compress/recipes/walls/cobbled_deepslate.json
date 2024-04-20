@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:cobbled_deepslate_wall"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cobbled_deepslate",
+    "count": 1
+  },
+  "group": "walls_to_blocks"
+}
