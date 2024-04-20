@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:cobweb"
+    }
+  ],
+  "result": {
+    "item": "minecraft:string",
+    "count": 5
+  },
+  "group": "miscs_to_blocks"
+}
