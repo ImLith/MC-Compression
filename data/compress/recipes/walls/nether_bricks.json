@@ -3,11 +3,11 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:brick_wall"
+      "item": "minecraft:nether_brick_wall"
     }
   ],
   "result": {
-    "item": "minecraft:brick",
+    "item": "minecraft:nether_bricks",
     "count": 1
   },
   "group": "walls_to_blocks"
