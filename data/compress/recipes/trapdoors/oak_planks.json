@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_trapdoor"
+    },
+    {
+      "item": "minecraft:oak_trapdoor"
+    }
+  ],
+  "result": {
+    "item": "minecraft:oak_planks",
+    "count": 1
+  },
+  "group": "trapdoors_to_blocks"
+}

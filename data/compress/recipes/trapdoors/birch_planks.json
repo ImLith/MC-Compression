@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:birch_trapdoor"
+    },
+    {
+      "item": "minecraft:birch_trapdoor"
+    }
+  ],
+  "result": {
+    "item": "minecraft:birch_planks",
+    "count": 1
+  },
+  "group": "trapdoors_to_blocks"
+}
