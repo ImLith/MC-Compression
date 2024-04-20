@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_button"
+    }
+  ],
+  "result": {
+    "item": "minecraft:oak_planks",
+    "count": 1
+  },
+  "group": "compress"
+}

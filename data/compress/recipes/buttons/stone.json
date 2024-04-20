@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_button"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stone",
+    "count": 1
+  },
+  "group": "compress"
+}
