@@ -3,11 +3,11 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:mud_brick_wall"
+      "item": "minecraft:stone_brick_wall"
     }
   ],
   "result": {
-    "item": "minecraft:mud_brick",
+    "item": "minecraft:stone_bricks",
     "count": 1
   },
   "group": "walls_to_blocks"
